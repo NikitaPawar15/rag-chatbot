@@ -23,7 +23,7 @@ To install and set up the RAG Chatbot App, follow these steps:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/rag-chatbot.git
+   git clone https://github.com/NikitaPawar15/rag-chatbot.git
    cd rag-chatbot
    ```
 2. Install the required dependencies:
